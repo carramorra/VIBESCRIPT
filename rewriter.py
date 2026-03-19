@@ -1,8 +1,3 @@
-"""
-rewriter.py — Pure Python mood-based text transformation engine.
-No ML, no magic. Just explicit linguistic rules.
-"""
-
 import re
 
 # ---------------------------------------------------------------------------
