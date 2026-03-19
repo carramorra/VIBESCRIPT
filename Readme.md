@@ -7,8 +7,7 @@ It is designed to enhance communication across various contexts, including acade
 Features
 - Tone and style transformation  
 - Instant text rephrasing  
-- Multiple communication styles  
-- Fast AI-powered processing  
+- Multiple communication styles
 
 Uses
 - Improving professional communication  
